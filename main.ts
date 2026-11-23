@@ -1,3 +1,4 @@
+// One dad joke: the router didn't get the signal.
 import { mkdir, writeFile } from "node:fs/promises";
 
 const joke = "I told my router a joke about Wi-Fi, but it didn't get the signal.";
